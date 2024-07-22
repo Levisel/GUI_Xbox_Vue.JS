@@ -48,7 +48,7 @@ Consulta la [Referencia de Configuración de Vite](https://vitejs.dev/config/).
   ```
 
 ### Estructura del Proyecto 📁
-
+  ```
 GUI_XBOX_VUE/
 │
 ├── public/                   # Archivos públicos
@@ -66,3 +66,4 @@ GUI_XBOX_VUE/
 ├── package.json              # Dependencias y scripts del proyecto
 ├── README.md                 # Documentación del proyecto
 └── vite.config.js            # Configuración de Vite
+  ```
